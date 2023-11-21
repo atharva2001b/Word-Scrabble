@@ -1,5 +1,5 @@
 # Word-Scrabble
-This is project which finds the match percent of the word horizontally and/or vertically, in a given character pointer 2d Vector array. C++ concepts such as Pointers and Vectors are highlighted. It gives implementation of gid traversing in c++.
+This is project which finds the match percent of the word horizontally and/or vertically, in a given character pointer 2d Vector array. C++ concepts such as Pointers and Vectors are highlighted. It gives implementation of grid traversing in c++.
 
 ## Relevance
 - this project highlights use of 2d character pointer vector array.
